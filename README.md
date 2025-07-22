@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Aman!
 
-<!--
-**MasterChief8/MasterChief8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm learning Python Automation and sharing my journey publicly.  
+🛠️ Currently building small tools to automate boring tasks.  
+🎯 Goal: Get good enough to earn online using my skills.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python (Intermediate Level)
+- Automation with scripts & tools
+- Git, GitHub, and Linux basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects So Far
+- 🔧 `python_automation`: Scripts to simplify daily computer tasks
+
+## 📬 Connect with me
+- Twitter: [@aman_automates](https://x.com/aman_automates)
